@@ -1,0 +1,257 @@
+ 1454  cd ..
+ 1455  mkdir asteroids
+ 1456  cd asteroids
+ 1457  pwd
+ 1458  uv init --python 3.13 asteroids
+ 1459  uv remove asteroids
+ 1460  ls
+ 1461  rmdir asteroids
+ 1462  ls asteroids
+ 1463  cd asteroids
+ 1464  uv remove asteroids
+ 1465  ls
+ 1466  rm *.*
+ 1467  ls
+ 1468  cd ..
+ 1469  rmdir asteroids
+ 1470  ls
+ 1471  pwd
+ 1472  cd asteroids
+ 1473  pwd
+ 1474  rm .*
+ 1475  pwd
+ 1476  ls .*
+ 1477  ls -a
+ 1478  cd .git
+ 1479  pwd
+ 1480  ls
+ 1481  rm *
+ 1482  rmdir * -f
+ 1483  rm * -rf
+ 1484  ls
+ 1485  rm * -rf
+ 1486  cd hooks
+ 1487  ls
+ 1488  rm *
+ 1489  cd ../info
+ 1490  ls
+ 1491  rm *
+ 1492  cd ../objects
+ 1493  ls
+ 1494  rm *
+ 1495  rmdir -f info 
+ 1496  cd info
+ 1497  ls
+ 1498  cd ..
+ 1499  rmdir info
+ 1500  ls
+ 1501  rmdir pack
+ 1502  ls
+ 1503  cd ..
+ 1504  rmdir objects
+ 1505  ls
+ 1506  rmdir hooks
+ 1507  rmdir info
+ 1508  rmdir refs
+ 1509  cd refs
+ 1510  ls
+ 1511  rm *
+ 1512  cd heads
+ 1513  ls
+ 1514  cd ..
+ 1515  rmdir heads
+ 1516  ls
+ 1517  rmdir tags
+ 1518  cd ..
+ 1519  ls
+ 1520  rmdir refs
+ 1521  cd ..
+ 1522  ls -a
+ 1523  rm .DS_Store
+ 1524  rmdir .git
+ 1525  cd .git
+ 1526  ls
+ 1527  ls -a
+ 1528  rm .DS_Store
+ 1529  cd ..
+ 1530  rmdir .git
+ 1531  ls -a
+ 1532  rm .DS_Store
+ 1533  ls -a
+ 1534  cd ..
+ 1535  pwd
+ 1536  rmdir asteroids
+ 1537  cd ..
+ 1538  rmdir asteroids
+ 1539  cd asteroids
+ 1540  ls -a
+ 1541  rm .DS_Store
+ 1542  cd ..
+ 1543  rmdir asteroids
+ 1544  uv init --python 3.13 asteroids
+ 1545  cd asteroids
+ 1546  ls
+ 1547  ls -a
+ 1548  uv venv
+ 1549  source .venv/bin/activate
+ 1550  uv add pygame==2.6.1
+ 1551  uv run -m pygame
+ 1552  bootdev run 7228cde1-e519-4ee4-920e-1c50011197bb
+ 1553  bootdev run 7228cde1-e519-4ee4-920e-1c50011197bb -s
+ 1554  open main.py
+ 1555  uv run main.py
+ 1556  uv run main.py
+ 1557  bootdev run d53d6123-6fd5-4f9c-ba0a-2c4d82ae0a49
+ 1558  bootdev run d53d6123-6fd5-4f9c-ba0a-2c4d82ae0a49 -s
+ 1559  touch constants.py
+ 1560  open constants.py
+ 1561  bootdev run 268bb0d0-3e63-4218-aacc-cba3247a1af5
+ 1562  bootdev run 268bb0d0-3e63-4218-aacc-cba3247a1af5
+ 1563  cat constants.py
+ 1564  python -m pip install pygame
+ 1565  python3 -m pip install pygame
+ 1566  python3 -m ensurepip\n
+ 1567  python3 -m pip install pygame
+ 1568  pip3 install --upgrade pip
+ 1569  python3 -m pip install pygame
+ 1570  pip3 install --upgrade pip
+ 1571  bootdev run 268bb0d0-3e63-4218-aacc-cba3247a1af5
+ 1572  bootdev run 268bb0d0-3e63-4218-aacc-cba3247a1af5 -s
+ 1573  touch logger.py
+ 1574  brew install jq
+ 1575  brew update
+ 1576  brew upgrade
+ 1577  python3 -m pip install cython --user
+ 1578  python3 -m pip install cython
+ 1579  pip3 install --upgrade pip\n
+ 1580  python3 -m pygame.tests
+ 1581  brew install sdl2 sdl2_image sdl2_mixer sdl2_ttf pkg-config
+ 1582  brew install Caskroom/cask/xquartz
+ 1583  brew install portmidi
+ 1584  python3 -m pip install git+https://github.com/pygame/pygame.git
+ 1585  pip3 install --upgrade pip\n
+ 1586  python3 -m pygame.tests
+ 1587  bootdev run ae3772ed-186b-4ab2-82d6-3091e1d14f51
+ 1588  bootdev run ae3772ed-186b-4ab2-82d6-3091e1d14f51 -s
+ 1589  uv run main.py
+ 1590  uv run main.py
+ 1591  bootdev run e54942c0-0333-41bb-892f-e8a3049018df
+ 1592  cat main.py
+ 1593  cat main.py
+ 1594  cat game_state.jsonl
+ 1595  uv run main.py
+ 1596  uv run main.py
+ 1597  bootdev run e54942c0-0333-41bb-892f-e8a3049018df
+ 1598  bootdev run e54942c0-0333-41bb-892f-e8a3049018df -s
+ 1599  uv run main.py
+ 1600  uv run main.py
+ 1601  uv run main.py
+ 1602  cat main.py
+ 1603  uv run main.py
+ 1604  bootdev run 658641f2-586b-48eb-bfb0-e7612cdd5dfd
+ 1605  bootdev run 658641f2-586b-48eb-bfb0-e7612cdd5dfd -s
+ 1606  touch circleshape.py
+ 1607  bootdev run a56fface-8a77-40ee-bf17-50d76078e5ec
+ 1608  bootdev run a56fface-8a77-40ee-bf17-50d76078e5ec -s
+ 1609  touch player.py
+ 1610  uv run main.py
+ 1611  uv run main.py
+ 1612  uv run main.py
+ 1613  cat main.py
+ 1614  cat player.py
+ 1615  cat player.py
+ 1616  uv run main.py
+ 1617  uv run main.py
+ 1618  bootdev run c504a055-69b9-49a9-a9cf-40a30556af92
+ 1619  bootdev run c504a055-69b9-49a9-a9cf-40a30556af92 -s
+ 1620  cat game_state.jsonl
+ 1621  uv run main.py
+ 1622  bootdev run ca7e42fb-9493-4732-b5db-4dc0379307fd
+ 1623  bootdev run ca7e42fb-9493-4732-b5db-4dc0379307fd -s
+ 1624  uv run main.py
+ 1625  uv run main.py
+ 1626  uv run main.py
+ 1627  bootdev run f3c2de4d-3646-42c0-8639-71f0c4c01eaa
+ 1628  bootdev run f3c2de4d-3646-42c0-8639-71f0c4c01eaa -s
+ 1629  uv run main.py
+ 1630  bootdev run 6a09887c-ad3f-4fb3-8726-c7bd9fa4161c
+ 1631  bootdev run 6a09887c-ad3f-4fb3-8726-c7bd9fa4161c -s
+ 1632  uv run main.py
+ 1633  uv run main.py
+ 1634  uv run main.py
+ 1635  bootdev run 12d26038-a9f0-4ef7-bb19-a659fc150ed0
+ 1636  bootdev run 12d26038-a9f0-4ef7-bb19-a659fc150ed0 -s
+ 1637  uv run main.py
+ 1638  cat game_state.jsonl
+ 1639  uv run main.py
+ 1640  uv run main.py
+ 1641  uv run main.py
+ 1642  uv run main.py
+ 1643  uv run main.py
+ 1644  uv run main.py
+ 1645  bootdev run 482925e6-e043-43a4-b9c6-9eda414bb9a7
+ 1646  bootdev run 482925e6-e043-43a4-b9c6-9eda414bb9a7 -s
+ 1647  uv run main.py
+ 1648  jq -s 'any(.shots.count > 0)' game_state.jsonl
+ 1649  uv run main.py
+ 1650  uv run main.py
+ 1651  uv run main.py
+ 1652  uv run main.py
+ 1653  bootdev run e100e54d-23e9-4d44-9a46-e335a7b732b7
+ 1654  bootdev run e100e54d-23e9-4d44-9a46-e335a7b732b7 -s
+ 1655  uv run main.py
+ 1656  uv run main.py
+ 1657  bootdev run dd8853da-b6ec-4975-95c2-2bafdbda2b25
+ 1658  bootdev run dd8853da-b6ec-4975-95c2-2bafdbda2b25 -s
+ 1659  jq -s 'any(.shots.count > 0)' game_state.jsonl
+ 1660  jq --help
+ 1661  uv run main.py
+ 1662  uv run main.py
+ 1663  bootdev run 960e1df9-33f2-4142-a9aa-c66a8f7af398
+ 1664  bootdev run 960e1df9-33f2-4142-a9aa-c66a8f7af398 -s
+ 1665  uv run main.py
+ 1666  uv run main.py 
+ 1667  uv run main.py
+ 1668  uv run main.py
+ 1669  uv run main.py
+ 1670  bootdev run 09dc2ef8-bac4-43b1-81ff-23727cc512f6
+ 1671  bootdev run 09dc2ef8-bac4-43b1-81ff-23727cc512f6 -s
+ 1672  git status
+ 1673  cat .gitignore
+ 1674  git add *.py
+ 1675  git status
+ 1676  git add README.md arc.png uv.lock
+ 1677  git status
+ 1678  cat pyproject.toml
+ 1679  git commit -m "A: initial"
+ 1680  git status
+ 1681  git push .
+ 1682  git help config
+ 1683  git push remote
+ 1684  git push --set-upstream remote main
+ 1685  git config
+ 1686  git help config
+ 1687  git config list
+ 1688  git push remote asteroids
+ 1689  git add .gitignore .python-version pyproject.toml
+ 1690  git commit -m "B: other files"
+ 1691  git push remote asteroids
+ 1692  git remote
+ 1693  git remote add origin https://github.com/rdearnaley77/asteroids
+ 1694  git remote -v
+ 1695  git push origin main
+ 1696  git pull
+ 1697  git pull origin main
+ 1698  git config pull.rebase false
+ 1699  git pull origin main
+ 1700  git config
+ 1701  git pull origin main --allow-unrelated-histories
+ 1702  git push origin main
+ 1703  cat README.md
+ 1704  nano README.md
+ 1705  nano ~/.bash_history
+ 1706  history
+ 1707  history 500
+ 1708  nano README.md
+ 1709  cp ~/.bash_history history.txt
+ 1710  pwd
